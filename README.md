@@ -1,2 +1,4 @@
 # hello-world
-This is just a simple first repository.
+# Just another line
+
+This is just a simple first repository, with another line.
